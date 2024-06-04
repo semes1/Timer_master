@@ -2,7 +2,7 @@
 .\objects\as32-100-c.o: ..\BSP\LOAR\as32-100-c.h
 .\objects\as32-100-c.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\as32-100-c.o: ..\Library\CMSIS\core_cm3.h
-.\objects\as32-100-c.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\as32-100-c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\as32-100-c.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\as32-100-c.o: ..\User\stm32f10x_conf.h
 .\objects\as32-100-c.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

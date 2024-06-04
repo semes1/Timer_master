@@ -1,7 +1,7 @@
 .\objects\croutine.o: ..\FreeRtos\source\croutine.c
 .\objects\croutine.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\croutine.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\croutine.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\croutine.o: ..\User\FreeRTOSConfig.h
 .\objects\croutine.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\croutine.o: ..\Library\CMSIS\core_cm3.h

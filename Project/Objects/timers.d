@@ -1,8 +1,8 @@
 .\objects\timers.o: ..\FreeRtos\source\timers.c
-.\objects\timers.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\timers.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\timers.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\timers.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\timers.o: ..\User\FreeRTOSConfig.h
 .\objects\timers.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\timers.o: ..\Library\CMSIS\core_cm3.h

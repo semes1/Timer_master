@@ -1,10 +1,10 @@
 .\objects\dp_print_lib.o: ..\BSP\EM5820\DP_Print_lib.c
 .\objects\dp_print_lib.o: ..\BSP\EM5820\DP_Print_inc.h
 .\objects\dp_print_lib.o: ..\BSP\USART\bsp_usart.h
-.\objects\dp_print_lib.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dp_print_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\dp_print_lib.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\dp_print_lib.o: ..\Library\CMSIS\core_cm3.h
-.\objects\dp_print_lib.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dp_print_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\dp_print_lib.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\dp_print_lib.o: ..\User\stm32f10x_conf.h
 .\objects\dp_print_lib.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

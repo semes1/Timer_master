@@ -266,12 +266,13 @@ void BSP_Init(void)
 	Delay_Init(F103SYSCLK);
 	Key_Init();
 	Button_Init();
-  AS32_Init();BEEP_Init();
+  AS32_Init();
+	BEEP_Init();
 	Exti_Init();
 	TIMER1_Init(499, 71);
 //	TIMER4_Init(999, 72-1);																											//(7199+1)分频，计数（4999+1）次     1ms
 	TIMER3_Init(9999, 72-1);                                                       //(71+1)分频，计数（9999+1）次       10ms
-//  TIMER2_Init(9999, 7199);                                                      //(7199+1)分频，计数（4999+1）次     1s
+  TIMER2_Init(9999, 7199);                                                      //(7199+1)分频，计数（4999+1）次     1s
 
 	SPI_ILI9486_Init();
 	ILI9486_tftlcd_init();
@@ -341,9 +342,7 @@ static void AppTaskCreate(void)
 															(void* 		  	)NULL,				                      //传递给任务函数的参数
 															(UBaseType_t 	)KEY_Priority, 				                        //任务优先级
 															(StackType_t*   )KEY_Task_Stack,	                //任务堆栈
-															(StaticTask_t*  )&KEY_Task_TCB);	                //任务控制块													
-															
-															
+															(StaticTask_t*  )&KEY_Task_TCB);	                //任务控制块	
 	if(NULL != KEY_Task_Handle)                                                   /* 创建成功 */
 		printf("KeyScan_Task任务创建成功!\n");
 	else
@@ -503,7 +502,7 @@ static void EXTIX_DealTask(void* parameter)
 					ILI9486_clear_screen(130, 137, 150, 30);
 					ILI9486_clear_screen(200, 200, 90, 40);//清除当前测试数据
 					ILI9486_draw_rectangle(130, 137, 150, 30, BLUE);
-					ILI9486_showstring_Ch(141, 140, (u8*)str, GB2312_24X24);           
+					ILI9486_showstring_Ch(141, 140, (u8*)str, GB2312_24X24);
 					Show_Data(Exti_Data[0] , 200);
 					xEventGroupSetBits(EventGroupHandler,EVENTBIT_1);
 					if(Data1_Count <= 1000){

@@ -2,7 +2,7 @@
 .\objects\bsp_key.o: ..\BSP\KEY\bsp_key.h
 .\objects\bsp_key.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\bsp_key.o: ..\Library\CMSIS\core_cm3.h
-.\objects\bsp_key.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_key.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\bsp_key.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_key.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -30,7 +30,7 @@
 .\objects\bsp_key.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\bsp_key.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\bsp_key.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\bsp_key.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\bsp_key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\bsp_key.o: ..\User\FreeRTOSConfig.h
 .\objects\bsp_key.o: ..\FreeRtos\include\projdefs.h
 .\objects\bsp_key.o: ..\FreeRtos\include\portable.h

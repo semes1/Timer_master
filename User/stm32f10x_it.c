@@ -178,7 +178,6 @@ void EXTIX_IRQHandler(void)                                                     
 		Exti_Close();TIM_Cmd(TIM2,ENABLE);
 		exti_i++;
 		pxHigherPriorityTaskWoken = pdFALSE;
-		
 		xResult = xSemaphoreGiveFromISR(BinarySem1_Handle ,&pxHigherPriorityTaskWoken);
 		if(xResult != pdFAIL)
 		{

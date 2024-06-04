@@ -2,7 +2,7 @@
 .\objects\stm32f10x_it.o: ..\User\stm32f10x_it.h
 .\objects\stm32f10x_it.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\stm32f10x_it.o: ..\Library\CMSIS\core_cm3.h
-.\objects\stm32f10x_it.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f10x_it.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\stm32f10x_it.o: ..\User\stm32f10x_conf.h
 .\objects\stm32f10x_it.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -30,7 +30,7 @@
 .\objects\stm32f10x_it.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\stm32f10x_it.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\stm32f10x_it.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\stm32f10x_it.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\stm32f10x_it.o: ..\User\FreeRTOSConfig.h
 .\objects\stm32f10x_it.o: ..\FreeRtos\include\projdefs.h
 .\objects\stm32f10x_it.o: ..\FreeRtos\include\portable.h
@@ -44,4 +44,4 @@
 .\objects\stm32f10x_it.o: ..\BSP\EXTI\bsp_exti.h
 .\objects\stm32f10x_it.o: ..\BSP\TIMER\bsp_timer.h
 .\objects\stm32f10x_it.o: ..\BSP\USART\bsp_usart.h
-.\objects\stm32f10x_it.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

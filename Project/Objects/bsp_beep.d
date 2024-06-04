@@ -2,7 +2,7 @@
 .\objects\bsp_beep.o: ..\BSP\BEEP\bsp_beep.h
 .\objects\bsp_beep.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\bsp_beep.o: ..\Library\CMSIS\core_cm3.h
-.\objects\bsp_beep.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_beep.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_beep.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\bsp_beep.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_beep.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

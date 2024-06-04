@@ -2,7 +2,7 @@
 .\objects\misc.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\misc.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\misc.o: ..\Library\CMSIS\core_cm3.h
-.\objects\misc.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\misc.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\misc.o: ..\User\stm32f10x_conf.h
 .\objects\misc.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

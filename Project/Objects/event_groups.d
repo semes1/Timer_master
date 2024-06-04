@@ -1,8 +1,8 @@
 .\objects\event_groups.o: ..\FreeRtos\source\event_groups.c
-.\objects\event_groups.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\event_groups.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\event_groups.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\event_groups.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\event_groups.o: ..\User\FreeRTOSConfig.h
 .\objects\event_groups.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\event_groups.o: ..\Library\CMSIS\core_cm3.h

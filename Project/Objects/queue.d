@@ -1,9 +1,9 @@
 .\objects\queue.o: ..\FreeRtos\source\queue.c
-.\objects\queue.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\queue.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\string.h
+.\objects\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\queue.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\queue.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\queue.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\queue.o: ..\User\FreeRTOSConfig.h
 .\objects\queue.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\queue.o: ..\Library\CMSIS\core_cm3.h

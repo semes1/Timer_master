@@ -3,7 +3,7 @@
 .\objects\ili9486.o: ..\BSP\GT30132S4\GT30L32S4W.h
 .\objects\ili9486.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\ili9486.o: ..\Library\CMSIS\core_cm3.h
-.\objects\ili9486.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ili9486.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ili9486.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\ili9486.o: ..\User\stm32f10x_conf.h
 .\objects\ili9486.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,7 +32,7 @@
 .\objects\ili9486.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\ili9486.o: ..\User\delay-FreeRTOS\bsp_delay.h
 .\objects\ili9486.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\ili9486.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\ili9486.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\ili9486.o: ..\User\FreeRTOSConfig.h
 .\objects\ili9486.o: ..\FreeRtos\include\projdefs.h
 .\objects\ili9486.o: ..\FreeRtos\include\portable.h

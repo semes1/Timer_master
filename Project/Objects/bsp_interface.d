@@ -2,7 +2,7 @@
 .\objects\bsp_interface.o: ..\BSP\INTERFACE\bsp_interface.h
 .\objects\bsp_interface.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\bsp_interface.o: ..\Library\CMSIS\core_cm3.h
-.\objects\bsp_interface.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_interface.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_interface.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\bsp_interface.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_interface.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -30,7 +30,7 @@
 .\objects\bsp_interface.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\bsp_interface.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\bsp_interface.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\bsp_interface.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\bsp_interface.o: ..\User\FreeRTOSConfig.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\projdefs.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\portable.h
@@ -39,7 +39,7 @@
 .\objects\bsp_interface.o: ..\FreeRtos\include\mpu_wrappers.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\task.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\list.h
-.\objects\bsp_interface.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp_interface.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\bsp_interface.o: ..\BSP\BUTTON\bsp_button.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\semphr.h
 .\objects\bsp_interface.o: ..\FreeRtos\include\queue.h

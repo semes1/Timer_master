@@ -1,7 +1,7 @@
 .\objects\main.o: ..\User\main.c
 .\objects\main.o: ..\Library\CMSIS\stm32f10x.h
 .\objects\main.o: ..\Library\CMSIS\core_cm3.h
-.\objects\main.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\Library\CMSIS\system_stm32f10x.h
 .\objects\main.o: ..\User\stm32f10x_conf.h
 .\objects\main.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -29,7 +29,7 @@
 .\objects\main.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\main.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\main.o: ..\FreeRtos\include\FreeRTOS.h
-.\objects\main.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\main.o: ..\User\FreeRTOSConfig.h
 .\objects\main.o: ..\FreeRtos\include\projdefs.h
 .\objects\main.o: ..\FreeRtos\include\portable.h
@@ -42,9 +42,9 @@
 .\objects\main.o: ..\FreeRtos\include\timers.h
 .\objects\main.o: ..\FreeRtos\include\semphr.h
 .\objects\main.o: ..\FreeRtos\include\queue.h
-.\objects\main.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\main.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdbool.h
-.\objects\main.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\main.o: ..\BSP\USART\bsp_usart.h
 .\objects\main.o: ..\BSP\TIMER\bsp_timer.h
 .\objects\main.o: ..\BSP\KEY\bsp_key.h
